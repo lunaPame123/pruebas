@@ -17,3 +17,4 @@ En el **frontend**, se utilizarán **React** como biblioteca principal, **Axios*
 ## *3. Tecnologías Utilizadas*
 
 El desarrollo del proyecto se basa en **Python** para el backend y **JavaScript** para el frontend. La interfaz de usuario se implementará con **React**, complementada con **HTML5** y **CSS3** para la estructura y el diseño de las páginas, y con **Bootstrap 5** para asegurar un diseño responsivo y adaptable a distintos dispositivos. La base de datos se gestionará inicialmente con **SQLite**, con posibilidad de migrar a **MySQL** en etapas posteriores, garantizando estabilidad, seguridad y compatibilidad con Django.
+<img width="1920" height="1080" alt="Usuarios" src="https://github.com/user-attachments/assets/1ac58734-5f9a-4391-bbf7-fb40c67921c6" />
